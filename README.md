@@ -1,6 +1,12 @@
-# 🎈 Test For Streamlit App!
+# 🔍 Hello-World (Streamlit Playground)
+A simple exploratory project using Streamlit, showcasing basic functionalities including:
 
-A simple Streamlit app template for you to modify!
+- Text and layout elements
+- User inputs and interactive widgets
+- Data visualization with charts
+- File uploads and session states
+
+This project serves as a personal playground to understand how Streamlit works for building quick and interactive dashboards in Python.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
